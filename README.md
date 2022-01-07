@@ -1,6 +1,6 @@
 # translate-FHS-Filesystem-Hierarchy-Standard-to-Chinese
 - 试着自己将FHS翻译成中文
-- 英语初学者，如果有错误请指正
+- 英语初学者，所学浅薄、精力有限，在翻译的过程中难免存在一些错误或是不完整的部分，正在逐步修正和补充。如果存在疏漏、错误，欢迎各位读者以[Issue](https://github.com/jerry460/translate-FHS-Filesystem-Hierarchy-Standard-to-Chinese/issues/new)或者[PR](https://github.com/jerry460/translate-FHS-Filesystem-Hierarchy-Standard-to-Chinese/pulls)的方式批评指正，感激不尽。
 ## 翻译版本为：
 Filesystem Hierarchy Standard
 
