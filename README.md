@@ -22,15 +22,15 @@ All trademarks and copyrights are owned by their owners, unless specifically not
 
 Permission is granted to make and distribute verbatim copies of this standard provided the copyright and this permission notice are preserved on all copies.
 
-允许制作和分发本标准的逐字拷贝，但所有拷贝上必须保留版权和本许可声明
+允许制作和发行本标准的大意内容，但所有拷贝上必须保留版权信息和本许可声明
 
 Permission is granted to copy and distribute modified versions of this standard under the conditions for verbatim copying, provided also that the title page is labeled as modified including a reference to the original standard, provided that information on retrieving the original standard is included, and provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.
 
-允许在逐字复制的条件下复制和分发本标准的修改版本，条件是在标题页上标明修改的内容，包括对原始标准的参考，包括检索原始标准的信息，并且整个衍生作品在与本许可声明相同的条件下分发。
+允许在大意相通的条件下复制和发行本标准的修改版本，条件是在标题页上标明修改的内容，其中包括对原始标准的参考，包括检索原始标准的信息，并且根据与本许可通知相同的许可通知条款分发整个衍生作品。。
 
 Permission is granted to copy and distribute translations of this standard into another language, under the above conditions for modified versions, except that this permission notice may be stated in a translation approved by the copyright holder.
 
-在上述修改版本的条件下，允许复制和分发本标准的另一种语言的译本，但本许可声明可以在版权持有人批准的译本中说明。
+在上述修改版本的条件下，允许复制和发行本标准的另一种语言的译本，但本许可声明可以在版权持有人批准的译本中说明。
 
 March 19, 2015
 
