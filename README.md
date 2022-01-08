@@ -18,7 +18,7 @@ Copyright © 2001-2004 Paul 'Rusty' Russell
 Copyright © 2003-2004 Christopher Yeoh
 All trademarks and copyrights are owned by their owners, unless specifically noted otherwise. Use of a term in this document should not be regarded as affecting the validity of any trademark or service mark.
 
-所有商标和版权均为其所有者所有，除非另有特别说明。本文件中某一术语的使用不应视为影响任何商标或服务标志的有效性。
+所有商标和版权均为其所有者所有，除非另有特别说明。本文件中任何术语的使用都不影响任何商标或服务标志的有效性。
 
 Permission is granted to make and distribute verbatim copies of this standard provided the copyright and this permission notice are preserved on all copies.
 
