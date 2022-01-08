@@ -1,7 +1,7 @@
 # 文件系统层次结构
 - 本书是[《 Filesystem Hierarchy Standard 》](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html)一书的中文译本。该文档规定了Unix/Linux系统中各层次目录的作用，是发行版规划目录层次的指南。对于Mac OS和Android等系统，也有很大指导意义。
 - 英语初学者，所学浅薄、精力有限，在翻译的过程中难免存在一些错误或是不完整的部分，正在逐步修正和补充。如果存在疏漏、错误，欢迎各位以[Issue](https://github.com/jerry460/translate-FHS-Filesystem-Hierarchy-Standard-to-Chinese/issues/new)或者[PR](https://github.com/jerry460/translate-FHS-Filesystem-Hierarchy-Standard-to-Chinese/pulls)的方式批评指正，感激不尽。
-## 翻译版本为：
+## 翻译版本为：([2.3版本中文翻译指路](https://github.com/Wylmer/FHS_zh_CN)
 ### Filesystem Hierarchy Standard
 
 LSB Workgroup, The Linux Foundation
